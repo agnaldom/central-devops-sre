@@ -9,15 +9,19 @@ Este projeto tem objetivo de ajudar para quem esta começando na aréa de DevOps
 ### Table of contents
 
 | topic | book |
+|------|------|
+|entrega-continua-como-entregar| [Entrega Continua_ Como Entregar - Jez Humble]
 
+Entrega Continua_ Como Entregar - Jez Humble
 # Sites
 
 ### Table of contents
 
 | topic | book |
-
+|------|------|
 # Cursos Online
 
 ### Table of contents
 
 | topic | book |
+|------|------|
