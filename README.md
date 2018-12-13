@@ -11,6 +11,8 @@ Este projeto tem objetivo de ajudar para quem esta começando na aréa de DevOps
 | topic | book 
 |---------|-------|
 | Entrega Contínua -  Como Entregar Software de Forma Rápida e Confiável | [Entrega Continua_ Como Entregar - Jez Humble](books/Entrega-Continua-Como-Entregar-Humble.pdf) |
+| Effective DevOps | [Effective DevOps](books/Effective-DevOps.pdf)
+| Site Reliability Engineering | [Site Reliability Engineering](books/Site-Reliability-Engineering.pdf)
 
 # Sites
 
