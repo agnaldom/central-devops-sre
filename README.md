@@ -27,3 +27,4 @@ Este projeto tem objetivo de ajudar para quem esta começando na aréa de DevOps
 | topic                      | book                                                               |
 | -------------------------- | ------------------------------------------------------------------ |
 | DevOps Essentials - 4Linux | [DevOps Essentials](https://www.4linux.com.br/curso/devops-gratis) |
+| Curso DevOps Foundation - Estabilis   | [Curso DevOps Foundation](https://universidade.estabil.is/courses/devops-foundation)
