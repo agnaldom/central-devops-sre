@@ -20,6 +20,7 @@ Este projeto tem objetivo de ajudar para quem esta começando na aréa de DevOps
 
 | topic | Site |
 | ----- | ---- |
+| Ansible | [Ansible BR](http://ansible-br.org/)
 
 
 # Cursos Online
