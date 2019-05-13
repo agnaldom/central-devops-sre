@@ -30,6 +30,7 @@ Este projeto tem objetivo de ajudar para quem esta começando na aréa de DevOps
 | Curso                      | Site                                                               |
 | -------------------------- | ------------------------------------------------------------------ |
 | DevOps Essentials - 4Linux | [DevOps Essentials](https://www.4linux.com.br/curso/devops-gratis) |
-| Curso DevOps Foundation - Estabilis   | [Curso DevOps Foundation](https://universidade.estabil.is/courses/devops-foundation)
-| EXIN Agile Scrum Foundation - Estabilis | [EXIN Agile Scrum Foundation](https://universidade.estabil.is/courses/exin-agile-scrum-foundation)
-| AWS na Prática - Estabilis | [AWS na Prática](https://universidade.estabil.is/courses/aws-na-pratica)
+| Curso DevOps Foundation - Estabilis   | [Curso DevOps Foundation](https://estabilis.thinkific.com/courses/devops-foundation)
+| EXIN Curso de DevOps Profissional - Estabilis | [EXIN Curso de DevOps Profissional](https://github.com/agnaldom/central-devops.git)
+| EXIN Agile Scrum Foundation - Estabilis | [EXIN Agile Scrum Foundation](https://estabilis.thinkific.com/courses/exin-agile-scrum-foundation)
+| AWS na Prática - Estabilis | [AWS na Prática](https://estabilis.thinkific.com/courses/aws-na-pratica)
