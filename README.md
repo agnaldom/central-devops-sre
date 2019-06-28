@@ -36,3 +36,6 @@ Este projeto tem objetivo de ajudar para quem esta começando na aréa de DevOps
 | EXIN Curso de DevOps Profissional - Estabilis | [EXIN Curso de DevOps Profissional](https://github.com/agnaldom/central-devops.git)
 | EXIN Agile Scrum Foundation - Estabilis | [EXIN Agile Scrum Foundation](https://estabilis.thinkific.com/courses/exin-agile-scrum-foundation)
 | AWS na Prática - Estabilis | [AWS na Prática](https://estabilis.thinkific.com/courses/aws-na-pratica)
+| Associate Cloud Engineer | [Associate Cloud Engineer](https://www.udemy.com/google-cloud-associate-cloud-engineer-certification)
+| Professional Cloud Developer | [Professional Cloud Developer](https://www.udemy.com/google-cloud-platform-professional-cloud-developer-certification)
+| Professional Cloud Architect | [Professional Cloud Architect](https://www.udemy.com/google-cloud-architect-certifications/?couponCode=GCPHOLIDAY)
