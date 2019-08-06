@@ -39,3 +39,4 @@ Este projeto tem objetivo de ajudar para quem esta começando na aréa de DevOps
 | Associate Cloud Engineer | [Associate Cloud Engineer](https://www.udemy.com/google-cloud-associate-cloud-engineer-certification)
 | Professional Cloud Developer | [Professional Cloud Developer](https://www.udemy.com/google-cloud-platform-professional-cloud-developer-certification)
 | Professional Cloud Architect | [Professional Cloud Architect](https://www.udemy.com/google-cloud-architect-certifications/?couponCode=GCPHOLIDAY)
+| Introduction to Kubernetes | [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes#!)
