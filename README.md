@@ -27,6 +27,7 @@ Agnaldo Marinho <agnaldomarinho7@gmail.com> - DeveOps Engineer SR
 | Ansible | [Ansible BR](http://ansible-br.org/)
 | Serveless  Framework| [Serverless Framework](https://serverless.com/)
 | Terraform | [Terraform](https://www.terraform.io/)
+| Vagrant | [Vagrant](https://www.vagrantup.com/)
 
 
 # Cursos Online
