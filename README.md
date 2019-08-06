@@ -4,6 +4,8 @@ Este projeto tem objetivo de ajudar para quem esta começando na aréa de DevOps
 
 # Author
 
+Agnaldo Marinho <agnaldomarinho7@gmail.com> - DeveOps Engineer SR
+
 # Books
 
 ### Table of contents
