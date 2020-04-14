@@ -40,8 +40,22 @@ Ansible, foi desenvolvido para automaçao de configuraçao e instalaçao de uma 
 E o Puppet foi desenvolvido para entregar de pacotes, alem de mater o ambiente imutavel. 
    
 6. Whats is the best cloud in yout opinion and why?
+
+Para definir um melhor cloud dependente muito da aréa do seu negocio, pois cada um tem 
+tem suas particularidades.
+Mas eu diria que o Amazon Web Service (AWS) é um do mais completo.
+
 7. Which tools would you use to build a CI/CD process and why?
+
+Eu uso Azure DevOps, por que pela experiencia com outras ferramentas ci/cd é o mais 
+completo em integração com outros sistemas/ferramentas e também uma ferramento SAS, 
+
 8.  The /etc directory on Linux system store all the other binaries on the system.
 - [ ] true
 - [X] false
-9.  What do you think about AI? Are you in favor or against? Why? 
+9.  What do you think about AI? Are you in favor or against? Why?
+
+Acho que o IA está pleno crescimento, é uma forma de automatizar os processos que demoraria 
+tempo e precisarias de muitas pessoas para realizar.
+Eu sou a favor, por que com os processos automatizados tem muitas em varios aspector.
+Mas a empresas deveriam investir no funcionario para desenvolver o treinamento do IA.
