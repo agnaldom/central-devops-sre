@@ -32,6 +32,21 @@ Agnaldo Marinho <agnaldomarinho7@gmail.com> - DeveOps / Site Reliability Enginee
 
 # Cursos Online
 
+Alguns cursos oferecidos gratuitamente pela FIAP:
+
+* Blockchain Advanced
+* Business Intelligence (BI)
+* Customer Experience Management
+* Design Thinking
+* DevOps & Agile Culture
+* Inteligência Artificial e Computacional
+* Mobile Marketing
+* Python
+* Soluções Tecnológicas Emergentes
+* User Experience
+
+https://on.fiap.com.br/local/movimentobrasildigital/
+
 ### Table of contents
 
 | Curso                      | Site                                                               |
