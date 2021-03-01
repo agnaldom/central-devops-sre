@@ -1,6 +1,10 @@
 # DevOps Engineer
 
-Este projeto tem objetivo de ajudar para quem esta começando na aréa de DevOps
+Este projeto tem objetivo de ajudar para quem esta começando na aréa de DevOps e SRE
+
+# SRE
+
+[Site Reliability Engineering](https://linkedin.github.io/school-of-sre/)
 
 # Author
 
