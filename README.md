@@ -6,6 +6,8 @@ Este projeto tem objetivo de ajudar para quem esta começando na aréa de DevOps
 
 [Site Reliability Engineering](https://linkedin.github.io/school-of-sre/)
 
+[Observabilidade](https://github.com/liliannss/observabilidade)
+
 # Author
 
 Agnaldo Marinho <agnaldomarinho7@gmail.com> - DeveOps / Site Reliability Engineering SR
