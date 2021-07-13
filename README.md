@@ -66,3 +66,46 @@ https://on.fiap.com.br/local/movimentobrasildigital/
 | Professional Cloud Developer | [Professional Cloud Developer](https://www.udemy.com/google-cloud-platform-professional-cloud-developer-certification)
 | Professional Cloud Architect | [Professional Cloud Architect](https://www.udemy.com/google-cloud-architect-certifications/?couponCode=GCPHOLIDAY)
 | Introduction to Kubernetes | [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes#!)
+
+
+
+Quer tirar um projeto do papel e não tem dinheiro?
+
+
+Hospedagem grátis:
+- vercel.com
+- heroku.com
+- netlify.com
+
+Banco de dados grátis:
+- firebase.com
+- supabase.io
+- mongodb.com
+
+Repositório privado grátis:
+- github.com
+- bitbucket.com
+
+Não tenho conhecimento, por onde começar?
+- https://lnkd.in/e7NVN32
+- roadmap.sh
+
+Não tenho dinheiro para estudar, como faço?
+- YouTube 
+- Documentação
+- Google
+
+Não tenho um super computador para programar, e aí?
+- gitpod.io
+- stackblitz.com
+- replit.com
+A realidade é que hoje você não precisa de muito dinheiro para começar a criar projetos/trabalhar com tecnologia. Você precisa de 5 coisas:
+
+1 - Tempo
+2 - Vontade
+3 - Internet
+4 - browser
+5 - PC ou celular
+
+
+3 delas eu sei que você já tem.
