@@ -68,6 +68,16 @@ https://on.fiap.com.br/local/movimentobrasildigital/
 | Introduction to Kubernetes | [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes#!)
 
 
+#Reprogramando o Seu Futuro
+
+https://lnkd.in/duRwr8Z
+https://lnkd.in/d4BXn_r
+https://lnkd.in/dVZbENQ
+https://lnkd.in/d8PeMS3
+
+https://lnkd.in/dh84BzG
+
+https://lnkd.in/dWgR2ZK
 
 Quer tirar um projeto do papel e não tem dinheiro?
 
