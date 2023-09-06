@@ -21,6 +21,7 @@ Agnaldo Marinho <agnaldomarinho7@gmail.com> - DeveOps / Site Reliability Enginee
 
 | topic | book 
 |---------|-------|
+| The book of Secret Knowledge | [The book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 | Entrega Contínua -  Como Entregar Software de Forma Rápida e Confiável | [Entrega Continua_ Como Entregar - Jez Humble](books/Entrega-Continua-Como-Entregar-Humble.pdf) |
 | Effective DevOps | [Effective DevOps](books/Effective-DevOps.pdf)
 | Site Reliability Engineering | [Site Reliability Engineering](books/Site-Reliability-Engineering.pdf)
@@ -33,10 +34,18 @@ Agnaldo Marinho <agnaldomarinho7@gmail.com> - DeveOps / Site Reliability Enginee
 
 | topic | Site |
 | ----- | ---- |
+| School of SRE | [school-of-sre](https://github.com/linkedin/school-of-sre)
+| Awesome SRE Tools | [awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools)
+| How They SRE | [how-they-sre](https://github.com/upgundecha/howtheysre)
+| DevOps Exercises  | [devops-exercises](https://github.com/bregman-arie/devops-exercises)
+| Awesome Scalability | [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+| Awesome Go | [awesome-go](https://github.com/avelino/awesome-go)
 | Ansible | [Ansible BR](http://ansible-br.org/)
+| Ansible For DevOps | [ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops)
 | Serveless  Framework| [Serverless Framework](https://serverless.com/)
 | Terraform | [Terraform](https://www.terraform.io/)
 | Vagrant | [Vagrant](https://www.vagrantup.com/)
+
 
 
 # Cursos Online
